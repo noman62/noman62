@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noman62&label=Profile%20views&color=0e75b6&style=flat" alt="noman62" /> </p>
 
-- 🌱 I’m currently learning **Django, Data Structure**
+🌱 I’m currently specializing in LLM Fine-tuning & RAG Architectures.
 
-- 👨‍💻 All of my projects are available at [https://noman-portfolio.vercel.app/](https://noman-portfolio.vercel.app/)
+👨‍💻 Explore my AI agents and full-stack implementations at noman-portfolio.vercel.app.
 
-- 💬 Ask me about **MERN,MEAN,DSA**
+💬 Ask me about Generative AI, Vector Databases, and Scalable Backend Systems.
 
 - 📫 How to reach me **noman.ice.nstu18@gmail.com**
   
